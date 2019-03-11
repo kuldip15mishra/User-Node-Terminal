@@ -1,0 +1,105 @@
+.divt1 {
+    width: 300px;
+   
+    background-color:lightgray;
+    border: 2px solid darkblue;
+    padding: 5px;
+  }
+  .buttonhover {
+    background-color: blue; /* Green */
+    border: none;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.test{
+  font-size:5px;
+}
+  .button5 {border-radius: 50%;}
+  #tooltip > .tooltip-inner {
+    background-color:white;
+    color:black;
+    border: 2px solid grey;
+    padding: 5px;
+    max-width: 400px;
+    padding:5px;
+    font-weight: normal;
+   
+  }
+  .tooltip-inner {
+    max-width: 400px;
+    padding: 3px 8px;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+    border-radius: 4px;
+    font-size:5px;
+  }
+ 
+  h2 {
+    font: 400 40px/1.5 Helvetica, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+   
+  .t1ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+   
+  .t1li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+  }
+   
+  .t1li li:last-child {
+    border: none;
+  }
+   
+  .t1li li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    width: 200px;
+   
+    -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+    transition: font-size 0.3s ease, background-color 0.3s ease;
+  }
+   
+  .t1li li a:hover {
+    font-size: 30px;
+    background: #f6f6f6;
+  }
+
+  .centert1{
+   display: inline-block;
+  }
+
+  .subleft {
+    width: calc(50% - 30px);  
+    overflow-x: auto;
+  }
+  
+  .subright {
+    width: calc(50% - 30px);  
+  }
+
+  .hover {
+    background-color: papayawhip;   
+    width: 300px;
+    height: 150px; 
+    border-style: dashed;
+    border-color: chocolate;
+    float: right;
+    margin-top: 5px;
+}
